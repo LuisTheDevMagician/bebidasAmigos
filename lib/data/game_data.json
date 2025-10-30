@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "nome": "Bebedeira com Amigos",
+    "versao": "1.0",
+    "idioma": "pt-BR",
+    "descricao": "Perguntas e desafios para drinking games com categorias e níveis."
+  },
+  "categorias": [
+    {
+      "id": "eu_nunca",
+      "nome": "Eu Nunca",
+      "descricao": "Quem já fez, bebe!"
+    },
+    {
+      "id": "verdade_ou_desafio",
+      "nome": "Verdade ou Desafio",
+      "descricao": "Responda honestamente ou encare o gole."
+    },
+    {
+      "id": "desafios_rapidos",
+      "nome": "Desafios Rápidos",
+      "descricao": "Ações simples e engraçadas."
+    },
+    {
+      "id": "picante",
+      "nome": "Picante",
+      "descricao": "Perguntas apimentadas (18+)."
+    },
+    {
+      "id": "party",
+      "nome": "Party",
+      "descricao": "Clima de festa e risadas."
+    },
+    {
+      "id": "regras",
+      "nome": "Regras de Jogo",
+      "descricao": "Regras persistentes que mudam a dinâmica."
+    },
+    {
+      "id": "votacao",
+      "nome": "Votação",
+      "descricao": "O grupo decide quem bebe."
+    }
+  ],
+  "cartas": [
+    {
+      "id": "en_001",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca perdi o horário por causa de ressaca.",
+      "goles": 1
+    },
+    {
+      "id": "en_002",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca mandei mensagem para a pessoa errada por engano.",
+      "goles": 1
+    },
+    {
+      "id": "en_003",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fugi sem pagar uma conta (mesmo que pequena).",
+      "goles": 2
+    },
+    {
+      "id": "en_004",
+      "categoria": "eu_nunca",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca beijei mais de uma pessoa na mesma noite.",
+      "goles": 2
+    },
+    {
+      "id": "en_005",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca caí dormindo em um lugar público.",
+      "goles": 1
+    },
+    {
+      "id": "en_006",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fingi estar doente para não ir a um compromisso.",
+      "goles": 1
+    },
+    {
+      "id": "en_007",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca dei em cima do crush de um amigo.",
+      "goles": 2
+    },
+    {
+      "id": "en_008",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca esqueci o nome de alguém logo depois de ser apresentado.",
+      "goles": 1
+    },
+    {
+      "id": "en_009",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca menti sobre minha idade.",
+      "goles": 2
+    },
+    {
+      "id": "en_010",
+      "categoria": "eu_nunca",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca acordei sem lembrar como cheguei em casa.",
+      "goles": 3
+    },
+    {
+      "id": "en_011",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca cantei no chuveiro achando que estava arrasando.",
+      "goles": 1
+    },
+    {
+      "id": "en_012",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca dei match no Tinder e não respondi a mensagem.",
+      "goles": 2
+    },
+    {
+      "id": "en_013",
+      "categoria": "eu_nunca",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fiquei com alguém só por desespero.",
+      "goles": 2
+    },
+    {
+      "id": "en_014",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca reencontrei alguém e fingi que lembrava do nome.",
+      "goles": 1
+    },
+    {
+      "id": "en_015",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca chorei assistindo um filme 'de criança'.",
+      "goles": 2
+    },
+    {
+      "id": "en_016",
+      "categoria": "eu_nunca",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca traí ou fui cúmplice de traição.",
+      "goles": 3
+    },
+    {
+      "id": "en_017",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca ri de uma piada que não entendi.",
+      "goles": 1
+    },
+    {
+      "id": "en_018",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca espiei conversas alheias no celular.",
+      "goles": 2
+    },
+    {
+      "id": "en_019",
+      "categoria": "eu_nunca",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fiquei com alguém comprometido sabendo disso.",
+      "goles": 3
+    },
+    {
+      "id": "en_020",
+      "categoria": "eu_nunca",
+      "nivel": "leve",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fingi gostar de um presente que ganhei.",
+      "goles": 1
+    },
+    {
+      "id": "en_021",
+      "categoria": "eu_nunca",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca menti sobre ter lido um livro famoso.",
+      "goles": 2
+    },
+
+    {
+      "id": "vd_001",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "verdade",
+      "texto": "Qual foi a última vez que você riu até chorar?",
+      "goles_se_pular": 1
+    },
+    {
+      "id": "vd_002",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual o maior mico que você já pagou em público?",
+      "goles_se_pular": 2
+    },
+    {
+      "id": "vd_003",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Qual segredo você nunca contou a ninguém aqui?",
+      "goles_se_pular": 3
+    },
+    {
+      "id": "vd_004",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "desafio",
+      "texto": "Fale o alfabeto de trás para frente. Errou? Beba 2 goles.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "vd_005",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "desafio",
+      "texto": "Envie um emoji aleatório para o último contato fixado. Se recusar, beba 3 goles.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "vd_006",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "desafio",
+      "texto": "Troque de lugar com a pessoa à sua direita por 1 rodada e imite ela. Se recusar, beba 3.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "vd_007",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "verdade",
+      "texto": "Qual foi seu último arrependimento?",
+      "goles_se_pular": 1
+    },
+    {
+      "id": "vd_008",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual foi a mentira mais elaborada que você já contou?",
+      "goles_se_pular": 2
+    },
+    {
+      "id": "vd_009",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "desafio",
+      "texto": "Imite a pessoa à sua esquerda por 1 minuto.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "vd_010",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Qual foi a pior decisão que você tomou bêbado?",
+      "goles_se_pular": 3
+    },
+    {
+      "id": "vd_011",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "desafio",
+      "texto": "Ligue para alguém e cante parabéns. Se recusar, beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "vd_012",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "verdade",
+      "texto": "Qual foi seu crush mais vergonhoso?",
+      "goles_se_pular": 1
+    },
+    {
+      "id": "vd_013",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "desafio",
+      "texto": "Deixe o grupo ler suas últimas 5 mensagens. Se recusar, beba 4.",
+      "goles_penalidade": 4
+    },
+    {
+      "id": "vd_014",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual aplicativo você usa escondido e tem vergonha de admitir?",
+      "goles_se_pular": 2
+    },
+    {
+      "id": "vd_015",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "desafio",
+      "texto": "Faça 10 polichinelos. Não conseguiu, beba 1.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "vd_016",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Você já sentiu ciúmes de alguém aqui? De quem?",
+      "goles_se_pular": 3
+    },
+    {
+      "id": "vd_017",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "desafio",
+      "texto": "Conte uma piada. Se ninguém rir, beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "vd_018",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "verdade",
+      "texto": "Qual foi a coisa mais constrangedora que seus pais te pegaram fazendo?",
+      "goles_se_pular": 1
+    },
+    {
+      "id": "vd_019",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "pesado",
+      "tipo": "desafio",
+      "texto": "Poste uma foto fazendo bico no Instagram. Se recusar, beba 3.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "vd_020",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual foi sua maior decepção amorosa?",
+      "goles_se_pular": 2
+    },
+    {
+      "id": "vd_021",
+      "categoria": "verdade_ou_desafio",
+      "nivel": "leve",
+      "tipo": "desafio",
+      "texto": "Fale um elogio sincero para cada pessoa presente.",
+      "goles_penalidade": 1
+    },
+
+    {
+      "id": "dr_001",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Tire uma selfie com todos fazendo careta. Quem não aparecer, bebe 1.",
+      "goles_afetados": "quem_nao_participar:1"
+    },
+    {
+      "id": "dr_002",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Fale um trava-língua sem errar. Errou, bebe 1.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_003",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Dê 3 voltas na mesa em 10 segundos. Não conseguiu, bebe 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_004",
+      "categoria": "desafios_rapidos",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Cante o refrão de uma música escolhida pelo grupo. Se recusar, beba 3.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "dr_005",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Faça sua melhor imitação de animal. O grupo escolhe qual.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_006",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Equilibre um copo na cabeça por 10 segundos. Caiu? Beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_007",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Fale uma frase sem usar a letra 'A'. Errou, bebe 1.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_008",
+      "categoria": "desafios_rapidos",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Faça um rap freestyle sobre a pessoa à sua direita. Recusou? 3 goles.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "dr_009",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Fique em pé em uma perna só por 30 segundos. Não conseguiu, beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_010",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Faça 5 pessoas do grupo rirem em 1 minuto. Não conseguiu? Beba 1.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_011",
+      "categoria": "desafios_rapidos",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Dance sozinho por 30 segundos. Sem música. Recusou? 3 goles.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "dr_012",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Fale 10 palavras em inglês sem parar. Errou? Beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_013",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Faça a pose mais ridícula que conseguir por 10 segundos.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_014",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Conte até 20 de olhos fechados. Se alguém te atrapalhar, você bebe 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_015",
+      "categoria": "desafios_rapidos",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Ligue para sua mãe e diga 'eu te amo'. Recusou? 4 goles.",
+      "goles_penalidade": 4
+    },
+    {
+      "id": "dr_016",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Fale o nome de 5 capitais brasileiras em 10 segundos. Errou? 1 gole.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_017",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Imite um influencer famoso. O grupo deve adivinhar quem é.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_018",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Desenhe algo no ar. O grupo tem que adivinhar. Ninguém acertou? Beba 1.",
+      "goles_penalidade": 1
+    },
+    {
+      "id": "dr_019",
+      "categoria": "desafios_rapidos",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Mande um áudio cantando para 3 contatos aleatórios. Recusou? 3 goles.",
+      "goles_penalidade": 3
+    },
+    {
+      "id": "dr_020",
+      "categoria": "desafios_rapidos",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Faça 15 agachamentos. Não conseguiu terminar? Beba 2.",
+      "goles_penalidade": 2
+    },
+    {
+      "id": "dr_021",
+      "categoria": "desafios_rapidos",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Fale 3 defeitos seus em voz alta. Recusou? 1 gole.",
+      "goles_penalidade": 1
+    },
+
+    {
+      "id": "pc_001",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual foi a cantada mais sem noção que você já usou ou recebeu?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_002",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca mandei mensagem de madrugada e me arrependi depois.",
+      "goles": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_003",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Quem aqui você acha que beija melhor? Justifique ou beba 3.",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_004",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Já ficou com alguém só pela aparência física?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_005",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fingi um orgasmo.",
+      "goles": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_006",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual parte do corpo você mais repara em alguém?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_007",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Já teve alguma fantasia sexual com alguém aqui presente?",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_008",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca stalkeei o ex de alguém nas redes sociais.",
+      "goles": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_009",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Qual foi seu momento mais constrangedor na cama?",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_010",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca dei ghosting em alguém.",
+      "goles": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_011",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Você já traiu ou foi traído? Conte a história.",
+      "goles_se_pular": 4,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_012",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual seu fetiche secreto?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_013",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca fiquei com dois amigos do mesmo grupo.",
+      "goles": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_014",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Já teve um sonho erótico com alguém inesperado? Quem?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_015",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Qual foi a coisa mais ousada que você fez em público?",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_016",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca menti sobre meu número de parceiros sexuais.",
+      "goles": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_017",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Você toparia um ménage? Com quem?",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_018",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Qual foi o lugar mais inusitado onde você já ficou com alguém?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_019",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "eu_nunca",
+      "texto": "Eu nunca mandei nudes para a pessoa errada.",
+      "goles": 3,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_020",
+      "categoria": "picante",
+      "nivel": "medio",
+      "tipo": "verdade",
+      "texto": "Você já sentiu atração por alguém do mesmo sexo?",
+      "goles_se_pular": 2,
+      "restricao": "18+"
+    },
+    {
+      "id": "pc_021",
+      "categoria": "picante",
+      "nivel": "pesado",
+      "tipo": "verdade",
+      "texto": "Descreva seu beijo perfeito em detalhes.",
+      "goles_se_pular": 3,
+      "restricao": "18+"
+    },
+
+    {
+      "id": "py_001",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Todos brindam! Cada um bebe 1 gole.",
+      "goles_afetados": "todos:1"
+    },
+    {
+      "id": "py_002",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "O dono do celular com menos bateria bebe 2 goles.",
+      "goles_afetados": "escolhido:2"
+    },
+    {
+      "id": "py_003",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Quem estiver usando meias coloridas distribui 3 goles entre os outros.",
+      "goles_distribuir": 3
+    },
+    {
+      "id": "py_004",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Todos com nome começando com A–M bebem 2 goles.",
+      "goles_afetados": "subset:2"
+    },
+    {
+      "id": "py_005",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Quem tem tatuagem escolhe alguém para beber 1 gole.",
+      "goles_distribuir": 1
+    },
+    {
+      "id": "py_006",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "A pessoa mais alta distribui 2 goles.",
+      "goles_distribuir": 2
+    },
+    {
+      "id": "py_007",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Todos que estão de preto bebem 1 gole.",
+      "goles_afetados": "subset:1"
+    },
+    {
+      "id": "py_008",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "O último a encostar no nariz bebe 3 goles!",
+      "goles_afetados": "ultimo:3"
+    },
+    {
+      "id": "py_009",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Quem tem mais seguidores no Instagram distribui 2 goles.",
+      "goles_distribuir": 2
+    },
+    {
+      "id": "py_010",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Todos que já foram para a praia esse ano bebem 1.",
+      "goles_afetados": "subset:1"
+    },
+    {
+      "id": "py_011",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "A pessoa que acordou mais tarde hoje distribui 3 goles.",
+      "goles_distribuir": 3
+    },
+    {
+      "id": "py_012",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Todos os solteiros bebem 2 goles!",
+      "goles_afetados": "subset:2"
+    },
+    {
+      "id": "py_013",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "O grupo decide: quem tem o melhor estilo hoje distribui 1 gole.",
+      "goles_distribuir": 1
+    },
+    {
+      "id": "py_014",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Todos que usam óculos bebem 2 goles.",
+      "goles_afetados": "subset:2"
+    },
+    {
+      "id": "py_015",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "Quem chegou primeiro na festa distribui 2 goles.",
+      "goles_distribuir": 2
+    },
+    {
+      "id": "py_016",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Quem tem animal de estimação escolhe alguém para beber 1.",
+      "goles_distribuir": 1
+    },
+    {
+      "id": "py_017",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Todos que moram sozinhos bebem 2 goles.",
+      "goles_afetados": "subset:2"
+    },
+    {
+      "id": "py_018",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "A pessoa com unhas pintadas distribui 2 goles.",
+      "goles_distribuir": 2
+    },
+    {
+      "id": "py_019",
+      "categoria": "party",
+      "nivel": "leve",
+      "tipo": "acao",
+      "texto": "Todos bebem 1 gole e gritam 'SAÚDE!'",
+      "goles_afetados": "todos:1"
+    },
+    {
+      "id": "py_020",
+      "categoria": "party",
+      "nivel": "pesado",
+      "tipo": "acao",
+      "texto": "Quem tem mais de 1000 fotos no celular bebe 3 goles.",
+      "goles_afetados": "subset:3"
+    },
+    {
+      "id": "py_021",
+      "categoria": "party",
+      "nivel": "medio",
+      "tipo": "acao",
+      "texto": "O aniversariante mais próximo distribui 2 goles.",
+      "goles_distribuir": 2
+    },
+
+    {
+      "id": "rg_001",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: A partir de agora, não pode dizer 'beber'. Quem disser, bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_002",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Todos devem falar rimando. Quem esquecer, bebe 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_003",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Toda vez que alguém rir alto, a pessoa à esquerda bebe 1.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_004",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode usar o celular. Quem usar bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_005",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Só pode beber com a mão esquerda. Errou? Beba 2.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_006",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Toda vez que alguém beber, deve fazer um brinde. Esqueceu? Beba mais 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_007",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode apontar. Quem apontar bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_008",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Não pode falar nomes próprios. Quem falar bebe 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_009",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Deve substituir 'eu' por 'nós'. Esqueceu? Beba 2.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_010",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode cruzar as pernas. Cruzou? Bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_011",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Antes de beber, deve dizer 'Tim-Tim'. Esqueceu? Beba mais 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_012",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Toda frase deve terminar com 'meu consagrado'. Esqueceu? 2 goles.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_013",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode dizer 'sim' ou 'não'. Disse? Bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_014",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Deve fazer uma careta antes de beber. Esqueceu? Beba mais 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_015",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Quando alguém beber, todos batem palma 3 vezes. Esqueceu? Beba 2.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_016",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode falar palavrão. Falou? Bebe 1.",
+      "duracao": "3_rodadas"
+    },
+    {
+      "id": "rg_017",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Deve sussurrar ao falar. Falou alto? Bebe 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_018",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Toda pergunta deve ser respondida com outra pergunta. Errou? 2 goles.",
+      "duracao": "ate_cancelar"
+    },
+    {
+      "id": "rg_019",
+      "categoria": "regras",
+      "nivel": "leve",
+      "tipo": "regra",
+      "texto": "Regra: Não pode rir. Riu? Bebe 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_020",
+      "categoria": "regras",
+      "nivel": "medio",
+      "tipo": "regra",
+      "texto": "Regra: Deve bater na mesa antes de falar. Esqueceu? Bebe 1.",
+      "duracao": "2_rodadas"
+    },
+    {
+      "id": "rg_021",
+      "categoria": "regras",
+      "nivel": "pesado",
+      "tipo": "regra",
+      "texto": "Regra: Ao ser chamado pelo nome, deve latir. Não latiu? 2 goles.",
+      "duracao": "ate_cancelar"
+    },
+
+    {
+      "id": "vt_001",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem tem a melhor história de viagem? Vencedor escolhe alguém para beber 2.",
+      "efeito": "vencedor_indica:2"
+    },
+    {
+      "id": "vt_002",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem provavelmente chegaria atrasado no próprio casamento?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_003",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem é o mais competitivo do grupo?",
+      "efeito": "escolhido_bebe:3"
+    },
+    {
+      "id": "vt_004",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem tem o melhor senso de humor?",
+      "efeito": "vencedor_indica:1"
+    },
+    {
+      "id": "vt_005",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem mais usa o celular aqui?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_006",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem provavelmente vai embora primeiro da festa?",
+      "efeito": "escolhido_bebe:3"
+    },
+    {
+      "id": "vt_007",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem dança melhor?",
+      "efeito": "vencedor_indica:1"
+    },
+    {
+      "id": "vt_008",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem é mais dramático?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_009",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem seria o primeiro a sobreviver em uma ilha deserta?",
+      "efeito": "vencedor_indica:3"
+    },
+    {
+      "id": "vt_010",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem tem a risada mais engraçada?",
+      "efeito": "escolhido_bebe:1"
+    },
+    {
+      "id": "vt_011",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem é o mais ciumento?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_012",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem provavelmente vai casar primeiro?",
+      "efeito": "escolhido_bebe:3"
+    },
+    {
+      "id": "vt_013",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem é mais organizado?",
+      "efeito": "vencedor_indica:1"
+    },
+    {
+      "id": "vt_014",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem fica mais bonito quando bebe?",
+      "efeito": "vencedor_indica:2"
+    },
+    {
+      "id": "vt_015",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem conta os piores segredos quando bêbado?",
+      "efeito": "escolhido_bebe:3"
+    },
+    {
+      "id": "vt_016",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem é mais generoso?",
+      "efeito": "vencedor_indica:1"
+    },
+    {
+      "id": "vt_017",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem é mais esquecido?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_018",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem tem mais chance de virar celebridade?",
+      "efeito": "vencedor_indica:3"
+    },
+    {
+      "id": "vt_019",
+      "categoria": "votacao",
+      "nivel": "leve",
+      "tipo": "voto",
+      "texto": "Vote: Quem cozinha melhor?",
+      "efeito": "vencedor_indica:1"
+    },
+    {
+      "id": "vt_020",
+      "categoria": "votacao",
+      "nivel": "medio",
+      "tipo": "voto",
+      "texto": "Vote: Quem é mais preguiçoso?",
+      "efeito": "escolhido_bebe:2"
+    },
+    {
+      "id": "vt_021",
+      "categoria": "votacao",
+      "nivel": "pesado",
+      "tipo": "voto",
+      "texto": "Vote: Quem seria o melhor amigo em uma crise?",
+      "efeito": "vencedor_indica:3"
+    }
+  ],
+  "sugestoes_uso": {
+    "idade_minima": 18,
+    "aviso": "Beba com responsabilidade. Não dirija após beber.",
+    "modos": [
+      "Clássico: vire cartas aleatórias",
+      "Custom: filtre por categoria e nível",
+      "Maratona: adicione 1 regra a cada 3 rodadas"
+    ]
+  }
+}
