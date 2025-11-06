@@ -2,6 +2,12 @@
 
 Um aplicativo Flutter divertido e interativo para drinking games com amigos!
 
+#LINKS:
+
+Linkedin: https://www.linkedin.com/pulse/brincadeira-entre-amigos-com-flutter-luis-eduardo-cswlf/
+
+Youtube: https://youtu.be/zm0BAecUl4M
+
 ## 📱 Sobre o App
 
 **Bebedeira com Amigos** é um aplicativo de entretenimento para festas que oferece 7 categorias diferentes de desafios, perguntas e brincadeiras para animar suas reuniões.
